@@ -1,0 +1,15 @@
+{
+    "name": "randyrivera/banco",
+    "autoload": {
+        "psr-4": {
+            "Randyrivera\\Banco\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Randy"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
